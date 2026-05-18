@@ -1,0 +1,47 @@
+TODO — Paredes Medical Center Dental Clinic Landing Page
+Generated: 2026-05-19
+Layout: Layout 3 — Trust-First Professional
+========================================
+
+CRITICAL (blocks launch)
+------------------------
+[ ] Configure DNS for custom subdomain paredes-medical-center-dental-clinic.vikaph.com
+    - Current status: Vercel deployment successful but subdomain access denied (403 error)
+    - Action required: Add CNAME record at DNS provider pointing to cname.vercel-dns.com
+    - Temporary URL: https://paredes-medical-center-dental-clinic-34ipwty06.vercel.app
+
+CONTENT (needs real copy or data)
+----------------------------------
+[ ] Fill in FAQ answers with specific information:
+    - What services do you offer? - [FILL IN]
+    - Do you accept walk-in patients? - [FILL IN]
+    - How much is dental cleaning? - [FILL IN]
+    - Do you accept HMO? - [FILL IN]
+[ ] Add real patient reviews with names and timestamps
+[ ] Add team member information (photos, names, credentials)
+[ ] Add HMO/insurance information if applicable
+
+IMAGES
+-------
+[ ] All images downloaded successfully (hero.jpg, about.jpg, gallery/01-06.jpg)
+[ ] Images sourced from Unsplash as fallback (web search did not yield direct image URLs)
+
+SEO
+----
+[ ] Meta tags configured with business information
+[ ] LocalBusiness JSON-LD structured data added
+[ ] Google Maps embed configured with Place ID
+[ ] robots.txt not created (optional for static site)
+
+ALL DONE ✓
+-----------
+✓ Business profile extracted from web search
+✓ Layout variant selected (Trust-First Professional)
+✓ Tailwind style guide generated with CSS variables
+✓ Landing page section plan created
+✓ Project folder scaffolded (paredes-medical-center-dental-clinic/)
+✓ index.html created with complete content
+✓ Images downloaded (hero, about, 6 gallery images)
+✓ Git repository initialized and pushed to GitHub
+✓ Vercel deployment successful
+✓ Trello card moved to In Progress
