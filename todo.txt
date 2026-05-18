@@ -17,7 +17,7 @@ CONTENT (needs real copy or data)
     - Do you accept walk-in patients? - [FILL IN]
     - How much is dental cleaning? - [FILL IN]
     - Do you accept HMO? - [FILL IN]
-[ ] Add real patient reviews with names and timestamps
+✓ Add real patient reviews with names and timestamps (Diddly Horle, AnG BatAnG sI PauL)
 [ ] Add team member information (photos, names, credentials)
 [ ] Add HMO/insurance information if applicable
 
